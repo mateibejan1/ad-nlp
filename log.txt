@@ -1,0 +1,790 @@
+2021-02-01 20:55:22,764 - root - INFO - Log file is ./log.txt.
+2021-02-01 20:55:22,764 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 20:55:22,764 - root - INFO - Export path is ..
+2021-02-01 20:55:22,764 - root - INFO - Dataset: song_artists
+2021-02-01 20:55:22,764 - root - INFO - Normal class: 0
+2021-02-01 20:55:22,764 - root - INFO - Tokenizer: spacy
+2021-02-01 20:55:22,764 - root - INFO - Clean text in pre-processing: True
+2021-02-01 20:55:22,764 - root - INFO - Word vector embedding size: 300
+2021-02-01 20:55:22,764 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 20:55:22,764 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 20:55:22,764 - root - INFO - Use tf-idf weights: False
+2021-02-01 20:55:22,764 - root - INFO - Normalize embedding: False
+2021-02-01 20:55:22,764 - root - INFO - OC-SVM kernel: linear
+2021-02-01 20:55:22,765 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 20:55:22,765 - root - INFO - Set seed to 1.
+2021-02-01 20:55:22,766 - root - INFO - Computation device: cpu
+2021-02-01 20:55:22,766 - root - INFO - Number of dataloader workers: 0
+2021-02-01 20:55:25,823 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 20:55:36,651 - root - INFO - Log file is ./log.txt.
+2021-02-01 20:55:36,651 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 20:55:36,651 - root - INFO - Export path is ..
+2021-02-01 20:55:36,651 - root - INFO - Dataset: song_artists
+2021-02-01 20:55:36,651 - root - INFO - Normal class: 0
+2021-02-01 20:55:36,651 - root - INFO - Tokenizer: spacy
+2021-02-01 20:55:36,651 - root - INFO - Clean text in pre-processing: True
+2021-02-01 20:55:36,651 - root - INFO - Word vector embedding size: 300
+2021-02-01 20:55:36,651 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 20:55:36,652 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 20:55:36,652 - root - INFO - Use tf-idf weights: False
+2021-02-01 20:55:36,652 - root - INFO - Normalize embedding: False
+2021-02-01 20:55:36,652 - root - INFO - OC-SVM kernel: linear
+2021-02-01 20:55:36,652 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 20:55:36,653 - root - INFO - Set seed to 1.
+2021-02-01 20:55:36,653 - root - INFO - Computation device: cpu
+2021-02-01 20:55:36,653 - root - INFO - Number of dataloader workers: 0
+2021-02-01 20:55:39,759 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 20:56:46,477 - root - INFO - Log file is ./log.txt.
+2021-02-01 20:56:46,477 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 20:56:46,477 - root - INFO - Export path is ..
+2021-02-01 20:56:46,477 - root - INFO - Dataset: song_artists
+2021-02-01 20:56:46,477 - root - INFO - Normal class: 0
+2021-02-01 20:56:46,478 - root - INFO - Tokenizer: spacy
+2021-02-01 20:56:46,478 - root - INFO - Clean text in pre-processing: True
+2021-02-01 20:56:46,478 - root - INFO - Word vector embedding size: 300
+2021-02-01 20:56:46,478 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 20:56:46,478 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 20:56:46,478 - root - INFO - Use tf-idf weights: False
+2021-02-01 20:56:46,478 - root - INFO - Normalize embedding: False
+2021-02-01 20:56:46,478 - root - INFO - OC-SVM kernel: linear
+2021-02-01 20:56:46,478 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 20:56:46,479 - root - INFO - Set seed to 1.
+2021-02-01 20:56:46,479 - root - INFO - Computation device: cpu
+2021-02-01 20:56:46,479 - root - INFO - Number of dataloader workers: 0
+2021-02-01 20:56:49,635 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 20:58:22,219 - root - INFO - Log file is ./log.txt.
+2021-02-01 20:58:22,219 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 20:58:22,219 - root - INFO - Export path is ..
+2021-02-01 20:58:22,219 - root - INFO - Dataset: song_artists
+2021-02-01 20:58:22,219 - root - INFO - Normal class: 0
+2021-02-01 20:58:22,219 - root - INFO - Tokenizer: spacy
+2021-02-01 20:58:22,219 - root - INFO - Clean text in pre-processing: True
+2021-02-01 20:58:22,219 - root - INFO - Word vector embedding size: 300
+2021-02-01 20:58:22,219 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 20:58:22,219 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 20:58:22,219 - root - INFO - Use tf-idf weights: False
+2021-02-01 20:58:22,220 - root - INFO - Normalize embedding: False
+2021-02-01 20:58:22,220 - root - INFO - OC-SVM kernel: linear
+2021-02-01 20:58:22,220 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 20:58:22,221 - root - INFO - Set seed to 1.
+2021-02-01 20:58:22,221 - root - INFO - Computation device: cpu
+2021-02-01 20:58:22,221 - root - INFO - Number of dataloader workers: 0
+2021-02-01 20:58:25,306 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:33:07,716 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:33:07,723 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:33:07,723 - root - INFO - Export path is ..
+2021-02-01 21:33:07,723 - root - INFO - Dataset: song_artists
+2021-02-01 21:33:07,723 - root - INFO - Normal class: 0
+2021-02-01 21:33:07,723 - root - INFO - Tokenizer: spacy
+2021-02-01 21:33:07,723 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:33:07,723 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:33:07,723 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:33:07,724 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:33:07,724 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:33:07,724 - root - INFO - Normalize embedding: False
+2021-02-01 21:33:07,724 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:33:07,724 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:33:07,724 - root - INFO - Set seed to 1.
+2021-02-01 21:33:07,724 - root - INFO - Computation device: cpu
+2021-02-01 21:33:07,724 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:33:24,360 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:33:24,360 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:33:24,360 - root - INFO - Export path is ..
+2021-02-01 21:33:24,360 - root - INFO - Dataset: song_artists
+2021-02-01 21:33:24,360 - root - INFO - Normal class: 0
+2021-02-01 21:33:24,360 - root - INFO - Tokenizer: spacy
+2021-02-01 21:33:24,360 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:33:24,360 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:33:24,360 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:33:24,360 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:33:24,360 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:33:24,360 - root - INFO - Normalize embedding: False
+2021-02-01 21:33:24,360 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:33:24,361 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:33:24,361 - root - INFO - Set seed to 1.
+2021-02-01 21:33:24,361 - root - INFO - Computation device: cpu
+2021-02-01 21:33:24,361 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:33:45,565 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:33:45,565 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:33:45,565 - root - INFO - Export path is ..
+2021-02-01 21:33:45,565 - root - INFO - Dataset: song_artists
+2021-02-01 21:33:45,565 - root - INFO - Normal class: 0
+2021-02-01 21:33:45,565 - root - INFO - Tokenizer: spacy
+2021-02-01 21:33:45,565 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:33:45,565 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:33:45,565 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:33:45,565 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:33:45,565 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:33:45,565 - root - INFO - Normalize embedding: False
+2021-02-01 21:33:45,565 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:33:45,565 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:33:45,566 - root - INFO - Set seed to 1.
+2021-02-01 21:33:45,566 - root - INFO - Computation device: cpu
+2021-02-01 21:33:45,566 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:34:35,753 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:34:35,753 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:34:35,753 - root - INFO - Export path is ..
+2021-02-01 21:34:35,753 - root - INFO - Dataset: song_artists
+2021-02-01 21:34:35,753 - root - INFO - Normal class: 0
+2021-02-01 21:34:35,753 - root - INFO - Tokenizer: spacy
+2021-02-01 21:34:35,754 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:34:35,754 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:34:35,754 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:34:35,754 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:34:35,754 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:34:35,754 - root - INFO - Normalize embedding: False
+2021-02-01 21:34:35,754 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:34:35,754 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:34:35,754 - root - INFO - Set seed to 1.
+2021-02-01 21:34:35,754 - root - INFO - Computation device: cpu
+2021-02-01 21:34:35,754 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:35:04,841 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:35:04,841 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:35:04,841 - root - INFO - Export path is ..
+2021-02-01 21:35:04,841 - root - INFO - Dataset: song_artists
+2021-02-01 21:35:04,841 - root - INFO - Normal class: 0
+2021-02-01 21:35:04,841 - root - INFO - Tokenizer: spacy
+2021-02-01 21:35:04,841 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:35:04,841 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:35:04,841 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:35:04,841 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:35:04,841 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:35:04,841 - root - INFO - Normalize embedding: False
+2021-02-01 21:35:04,842 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:35:04,842 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:35:04,842 - root - INFO - Set seed to 1.
+2021-02-01 21:35:04,842 - root - INFO - Computation device: cpu
+2021-02-01 21:35:04,842 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:35:18,666 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:35:18,666 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:35:18,666 - root - INFO - Export path is ..
+2021-02-01 21:35:18,667 - root - INFO - Dataset: song_artists
+2021-02-01 21:35:18,667 - root - INFO - Normal class: 0
+2021-02-01 21:35:18,667 - root - INFO - Tokenizer: spacy
+2021-02-01 21:35:18,667 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:35:18,667 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:35:18,667 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:35:18,667 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:35:18,667 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:35:18,667 - root - INFO - Normalize embedding: False
+2021-02-01 21:35:18,667 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:35:18,667 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:35:18,668 - root - INFO - Set seed to 1.
+2021-02-01 21:35:18,668 - root - INFO - Computation device: cpu
+2021-02-01 21:35:18,668 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:35:55,755 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:35:55,755 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:35:55,755 - root - INFO - Export path is ..
+2021-02-01 21:35:55,755 - root - INFO - Dataset: song_artists
+2021-02-01 21:35:55,755 - root - INFO - Normal class: 0
+2021-02-01 21:35:55,755 - root - INFO - Tokenizer: spacy
+2021-02-01 21:35:55,755 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:35:55,755 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:35:55,755 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:35:55,755 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:35:55,755 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:35:55,755 - root - INFO - Normalize embedding: False
+2021-02-01 21:35:55,755 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:35:55,755 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:35:55,756 - root - INFO - Set seed to 1.
+2021-02-01 21:35:55,756 - root - INFO - Computation device: cpu
+2021-02-01 21:35:55,756 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:36:19,666 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:36:19,666 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:36:19,666 - root - INFO - Export path is ..
+2021-02-01 21:36:19,666 - root - INFO - Dataset: song_artists
+2021-02-01 21:36:19,666 - root - INFO - Normal class: 0
+2021-02-01 21:36:19,666 - root - INFO - Tokenizer: spacy
+2021-02-01 21:36:19,666 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:36:19,666 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:36:19,666 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:36:19,666 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:36:19,667 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:36:19,667 - root - INFO - Normalize embedding: False
+2021-02-01 21:36:19,667 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:36:19,667 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:36:19,667 - root - INFO - Set seed to 1.
+2021-02-01 21:36:19,667 - root - INFO - Computation device: cpu
+2021-02-01 21:36:19,667 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:36:27,830 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:36:27,830 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:36:27,830 - root - INFO - Export path is ..
+2021-02-01 21:36:27,830 - root - INFO - Dataset: song_artists
+2021-02-01 21:36:27,830 - root - INFO - Normal class: 0
+2021-02-01 21:36:27,830 - root - INFO - Tokenizer: spacy
+2021-02-01 21:36:27,830 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:36:27,830 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:36:27,830 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:36:27,830 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:36:27,830 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:36:27,830 - root - INFO - Normalize embedding: False
+2021-02-01 21:36:27,831 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:36:27,831 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:36:27,831 - root - INFO - Set seed to 1.
+2021-02-01 21:36:27,831 - root - INFO - Computation device: cpu
+2021-02-01 21:36:27,831 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:37:44,368 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:37:44,368 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:37:44,368 - root - INFO - Export path is ..
+2021-02-01 21:37:44,369 - root - INFO - Dataset: song_artists
+2021-02-01 21:37:44,369 - root - INFO - Normal class: 0
+2021-02-01 21:37:44,369 - root - INFO - Tokenizer: spacy
+2021-02-01 21:37:44,369 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:37:44,369 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:37:44,369 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:37:44,369 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:37:44,369 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:37:44,369 - root - INFO - Normalize embedding: False
+2021-02-01 21:37:44,369 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:37:44,369 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:37:44,369 - root - INFO - Set seed to 1.
+2021-02-01 21:37:44,369 - root - INFO - Computation device: cpu
+2021-02-01 21:37:44,369 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:38:08,876 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:38:08,876 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:38:08,876 - root - INFO - Export path is ..
+2021-02-01 21:38:08,876 - root - INFO - Dataset: song_artists
+2021-02-01 21:38:08,876 - root - INFO - Normal class: 0
+2021-02-01 21:38:08,876 - root - INFO - Tokenizer: spacy
+2021-02-01 21:38:08,876 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:38:08,876 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:38:08,876 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:38:08,876 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:38:08,876 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:38:08,876 - root - INFO - Normalize embedding: False
+2021-02-01 21:38:08,876 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:38:08,876 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:38:08,877 - root - INFO - Set seed to 1.
+2021-02-01 21:38:08,877 - root - INFO - Computation device: cpu
+2021-02-01 21:38:08,877 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:38:10,842 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:38:47,136 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:38:47,136 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:38:47,136 - root - INFO - Export path is ..
+2021-02-01 21:38:47,136 - root - INFO - Dataset: song_artists
+2021-02-01 21:38:47,136 - root - INFO - Normal class: 0
+2021-02-01 21:38:47,136 - root - INFO - Tokenizer: spacy
+2021-02-01 21:38:47,136 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:38:47,136 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:38:47,136 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:38:47,136 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:38:47,136 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:38:47,136 - root - INFO - Normalize embedding: False
+2021-02-01 21:38:47,136 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:38:47,136 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:38:47,137 - root - INFO - Set seed to 1.
+2021-02-01 21:38:47,137 - root - INFO - Computation device: cpu
+2021-02-01 21:38:47,137 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:38:56,536 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:38:56,536 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:38:56,536 - root - INFO - Export path is ..
+2021-02-01 21:38:56,536 - root - INFO - Dataset: song_artists
+2021-02-01 21:38:56,536 - root - INFO - Normal class: 0
+2021-02-01 21:38:56,536 - root - INFO - Tokenizer: spacy
+2021-02-01 21:38:56,536 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:38:56,536 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:38:56,536 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:38:56,536 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:38:56,536 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:38:56,536 - root - INFO - Normalize embedding: False
+2021-02-01 21:38:56,536 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:38:56,536 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:38:56,537 - root - INFO - Set seed to 1.
+2021-02-01 21:38:56,537 - root - INFO - Computation device: cpu
+2021-02-01 21:38:56,537 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:38:58,389 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:39:12,000 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:39:12,001 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:39:12,001 - root - INFO - Export path is ..
+2021-02-01 21:39:12,001 - root - INFO - Dataset: song_artists
+2021-02-01 21:39:12,001 - root - INFO - Normal class: 0
+2021-02-01 21:39:12,001 - root - INFO - Tokenizer: spacy
+2021-02-01 21:39:12,001 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:39:12,001 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:39:12,001 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:39:12,001 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:39:12,001 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:39:12,001 - root - INFO - Normalize embedding: False
+2021-02-01 21:39:12,001 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:39:12,001 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:39:12,001 - root - INFO - Set seed to 1.
+2021-02-01 21:39:12,002 - root - INFO - Computation device: cpu
+2021-02-01 21:39:12,002 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:39:13,822 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:40:44,701 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:40:44,701 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:40:44,701 - root - INFO - Export path is ..
+2021-02-01 21:40:44,701 - root - INFO - Dataset: song_artists
+2021-02-01 21:40:44,701 - root - INFO - Normal class: 0
+2021-02-01 21:40:44,701 - root - INFO - Tokenizer: spacy
+2021-02-01 21:40:44,701 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:40:44,701 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:40:44,701 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:40:44,702 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:40:44,702 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:40:44,702 - root - INFO - Normalize embedding: False
+2021-02-01 21:40:44,702 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:40:44,702 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:40:44,703 - root - INFO - Set seed to 1.
+2021-02-01 21:40:44,703 - root - INFO - Computation device: cpu
+2021-02-01 21:40:44,703 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:40:47,777 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:42:34,962 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:42:34,963 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:42:34,963 - root - INFO - Export path is ..
+2021-02-01 21:42:34,963 - root - INFO - Dataset: song_artists
+2021-02-01 21:42:34,963 - root - INFO - Normal class: 0
+2021-02-01 21:42:34,963 - root - INFO - Tokenizer: spacy
+2021-02-01 21:42:34,963 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:42:34,963 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:42:34,963 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:42:34,963 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:42:34,963 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:42:34,963 - root - INFO - Normalize embedding: False
+2021-02-01 21:42:34,963 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:42:34,963 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:42:34,964 - root - INFO - Set seed to 1.
+2021-02-01 21:42:34,964 - root - INFO - Computation device: cpu
+2021-02-01 21:42:34,964 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:42:38,012 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:42:59,829 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:42:59,830 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:42:59,830 - root - INFO - Export path is ..
+2021-02-01 21:42:59,830 - root - INFO - Dataset: song_artists
+2021-02-01 21:42:59,830 - root - INFO - Normal class: 0
+2021-02-01 21:42:59,830 - root - INFO - Tokenizer: spacy
+2021-02-01 21:42:59,830 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:42:59,830 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:42:59,830 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:42:59,830 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:42:59,830 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:42:59,830 - root - INFO - Normalize embedding: False
+2021-02-01 21:42:59,830 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:42:59,830 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:42:59,831 - root - INFO - Set seed to 1.
+2021-02-01 21:42:59,831 - root - INFO - Computation device: cpu
+2021-02-01 21:42:59,831 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:43:02,940 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:43:50,249 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:43:50,249 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:43:50,250 - root - INFO - Export path is ..
+2021-02-01 21:43:50,250 - root - INFO - Dataset: song_artists
+2021-02-01 21:43:50,250 - root - INFO - Normal class: 0
+2021-02-01 21:43:50,250 - root - INFO - Tokenizer: spacy
+2021-02-01 21:43:50,250 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:43:50,250 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:43:50,250 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:43:50,250 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:43:50,250 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:43:50,250 - root - INFO - Normalize embedding: False
+2021-02-01 21:43:50,250 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:43:50,250 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:43:50,251 - root - INFO - Set seed to 1.
+2021-02-01 21:43:50,251 - root - INFO - Computation device: cpu
+2021-02-01 21:43:50,251 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:43:53,340 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:44:42,057 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:44:42,058 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:44:42,058 - root - INFO - Export path is ..
+2021-02-01 21:44:42,058 - root - INFO - Dataset: song_artists
+2021-02-01 21:44:42,058 - root - INFO - Normal class: 0
+2021-02-01 21:44:42,058 - root - INFO - Tokenizer: spacy
+2021-02-01 21:44:42,058 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:44:42,058 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:44:42,058 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:44:42,058 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:44:42,058 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:44:42,058 - root - INFO - Normalize embedding: False
+2021-02-01 21:44:42,058 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:44:42,059 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:44:42,060 - root - INFO - Set seed to 1.
+2021-02-01 21:44:42,060 - root - INFO - Computation device: cpu
+2021-02-01 21:44:42,060 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:44:45,078 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:45:08,078 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:45:08,079 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:45:08,079 - root - INFO - Export path is ..
+2021-02-01 21:45:08,079 - root - INFO - Dataset: song_artists
+2021-02-01 21:45:08,079 - root - INFO - Normal class: 0
+2021-02-01 21:45:08,079 - root - INFO - Tokenizer: spacy
+2021-02-01 21:45:08,079 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:45:08,079 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:45:08,079 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:45:08,079 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:45:08,079 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:45:08,079 - root - INFO - Normalize embedding: False
+2021-02-01 21:45:08,079 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:45:08,079 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:45:08,080 - root - INFO - Set seed to 1.
+2021-02-01 21:45:08,080 - root - INFO - Computation device: cpu
+2021-02-01 21:45:08,080 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:45:11,133 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:45:52,689 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:45:52,690 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:45:52,690 - root - INFO - Export path is ..
+2021-02-01 21:45:52,690 - root - INFO - Dataset: song_artists
+2021-02-01 21:45:52,690 - root - INFO - Normal class: 0
+2021-02-01 21:45:52,690 - root - INFO - Tokenizer: spacy
+2021-02-01 21:45:52,690 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:45:52,690 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:45:52,690 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:45:52,690 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:45:52,690 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:45:52,690 - root - INFO - Normalize embedding: False
+2021-02-01 21:45:52,690 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:45:52,690 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:45:52,691 - root - INFO - Set seed to 1.
+2021-02-01 21:45:52,691 - root - INFO - Computation device: cpu
+2021-02-01 21:45:52,691 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:46:09,999 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:46:10,000 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:46:10,000 - root - INFO - Export path is ..
+2021-02-01 21:46:10,000 - root - INFO - Dataset: song_artists
+2021-02-01 21:46:10,000 - root - INFO - Normal class: 0
+2021-02-01 21:46:10,000 - root - INFO - Tokenizer: spacy
+2021-02-01 21:46:10,000 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:46:10,000 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:46:10,000 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:46:10,000 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:46:10,000 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:46:10,000 - root - INFO - Normalize embedding: False
+2021-02-01 21:46:10,000 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:46:10,000 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:46:10,001 - root - INFO - Set seed to 1.
+2021-02-01 21:46:10,001 - root - INFO - Computation device: cpu
+2021-02-01 21:46:10,001 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:47:38,193 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:47:38,193 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:47:38,193 - root - INFO - Export path is ..
+2021-02-01 21:47:38,193 - root - INFO - Dataset: song_artists
+2021-02-01 21:47:38,194 - root - INFO - Normal class: 0
+2021-02-01 21:47:38,194 - root - INFO - Tokenizer: spacy
+2021-02-01 21:47:38,194 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:47:38,194 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:47:38,194 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:47:38,194 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:47:38,194 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:47:38,194 - root - INFO - Normalize embedding: False
+2021-02-01 21:47:38,194 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:47:38,194 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:47:38,195 - root - INFO - Set seed to 1.
+2021-02-01 21:47:38,195 - root - INFO - Computation device: cpu
+2021-02-01 21:47:38,195 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:48:08,705 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:48:08,705 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:48:08,705 - root - INFO - Export path is ..
+2021-02-01 21:48:08,705 - root - INFO - Dataset: song_artists
+2021-02-01 21:48:08,705 - root - INFO - Normal class: 0
+2021-02-01 21:48:08,705 - root - INFO - Tokenizer: spacy
+2021-02-01 21:48:08,705 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:48:08,706 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:48:08,706 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:48:08,706 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:48:08,706 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:48:08,706 - root - INFO - Normalize embedding: False
+2021-02-01 21:48:08,706 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:48:08,706 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:48:08,707 - root - INFO - Set seed to 1.
+2021-02-01 21:48:08,707 - root - INFO - Computation device: cpu
+2021-02-01 21:48:08,707 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:48:11,807 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:48:12,453 - root - INFO - Starting training...
+2021-02-01 21:48:12,479 - root - INFO - Training Time: 0.001s
+2021-02-01 21:48:12,479 - root - INFO - Finished training.
+2021-02-01 21:48:12,480 - root - INFO - Starting testing...
+2021-02-01 21:48:12,592 - root - INFO - Test AUC: 52.76%
+2021-02-01 21:48:12,592 - root - INFO - Test Time: 0.004s
+2021-02-01 21:48:12,592 - root - INFO - Finished testing.
+2021-02-01 21:49:26,414 - root - INFO - Log file is ./log.txt.
+2021-02-01 21:49:26,414 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 21:49:26,414 - root - INFO - Export path is ..
+2021-02-01 21:49:26,415 - root - INFO - Dataset: song_artists
+2021-02-01 21:49:26,415 - root - INFO - Normal class: 0
+2021-02-01 21:49:26,415 - root - INFO - Tokenizer: spacy
+2021-02-01 21:49:26,415 - root - INFO - Clean text in pre-processing: True
+2021-02-01 21:49:26,415 - root - INFO - Word vector embedding size: 300
+2021-02-01 21:49:26,415 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 21:49:26,415 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 21:49:26,415 - root - INFO - Use tf-idf weights: False
+2021-02-01 21:49:26,415 - root - INFO - Normalize embedding: False
+2021-02-01 21:49:26,415 - root - INFO - OC-SVM kernel: linear
+2021-02-01 21:49:26,415 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 21:49:26,416 - root - INFO - Set seed to 1.
+2021-02-01 21:49:26,416 - root - INFO - Computation device: cpu
+2021-02-01 21:49:26,416 - root - INFO - Number of dataloader workers: 0
+2021-02-01 21:49:28,529 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 21:49:28,948 - root - INFO - Starting training...
+2021-02-01 21:49:28,956 - root - INFO - Training Time: 0.001s
+2021-02-01 21:49:28,956 - root - INFO - Finished training.
+2021-02-01 21:49:28,956 - root - INFO - Starting testing...
+2021-02-01 21:49:29,033 - root - INFO - Test AUC: 52.76%
+2021-02-01 21:49:29,034 - root - INFO - Test Time: 0.003s
+2021-02-01 21:49:29,034 - root - INFO - Finished testing.
+2021-02-01 22:48:49,108 - root - INFO - Log file is ./log.txt.
+2021-02-01 22:48:49,109 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 22:48:49,109 - root - INFO - Export path is ..
+2021-02-01 22:48:49,109 - root - INFO - Dataset: song_artists
+2021-02-01 22:48:49,109 - root - INFO - Normal class: 0
+2021-02-01 22:48:49,109 - root - INFO - Tokenizer: spacy
+2021-02-01 22:48:49,109 - root - INFO - Clean text in pre-processing: True
+2021-02-01 22:48:49,109 - root - INFO - Word vector embedding size: 300
+2021-02-01 22:48:49,109 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 22:48:49,109 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 22:48:49,109 - root - INFO - Use tf-idf weights: False
+2021-02-01 22:48:49,109 - root - INFO - Normalize embedding: False
+2021-02-01 22:48:49,109 - root - INFO - OC-SVM kernel: linear
+2021-02-01 22:48:49,109 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 22:48:49,110 - root - INFO - Set seed to 1.
+2021-02-01 22:48:49,110 - root - INFO - Computation device: cpu
+2021-02-01 22:48:49,110 - root - INFO - Number of dataloader workers: 0
+2021-02-01 22:48:50,653 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 22:48:51,329 - root - INFO - Starting training...
+2021-02-01 22:48:51,350 - root - INFO - Training Time: 0.001s
+2021-02-01 22:48:51,350 - root - INFO - Finished training.
+2021-02-01 22:48:51,351 - root - INFO - Starting testing...
+2021-02-01 22:48:51,401 - root - INFO - Test AUC: 49.50%
+2021-02-01 22:48:51,401 - root - INFO - Test Time: 0.002s
+2021-02-01 22:48:51,402 - root - INFO - Finished testing.
+2021-02-01 22:59:16,845 - root - INFO - Log file is ./log.txt.
+2021-02-01 22:59:16,845 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 22:59:16,845 - root - INFO - Export path is ..
+2021-02-01 22:59:16,845 - root - INFO - Dataset: song_artists
+2021-02-01 22:59:16,845 - root - INFO - Normal class: 0
+2021-02-01 22:59:16,845 - root - INFO - Tokenizer: spacy
+2021-02-01 22:59:16,845 - root - INFO - Clean text in pre-processing: True
+2021-02-01 22:59:16,846 - root - INFO - Word vector embedding size: 300
+2021-02-01 22:59:16,846 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 22:59:16,846 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 22:59:16,846 - root - INFO - Use tf-idf weights: False
+2021-02-01 22:59:16,846 - root - INFO - Normalize embedding: False
+2021-02-01 22:59:16,846 - root - INFO - OC-SVM kernel: linear
+2021-02-01 22:59:16,846 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 22:59:16,847 - root - INFO - Set seed to 1.
+2021-02-01 22:59:16,847 - root - INFO - Computation device: cpu
+2021-02-01 22:59:16,847 - root - INFO - Number of dataloader workers: 0
+2021-02-01 22:59:38,840 - root - INFO - Log file is ./log.txt.
+2021-02-01 22:59:38,840 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 22:59:38,840 - root - INFO - Export path is ..
+2021-02-01 22:59:38,840 - root - INFO - Dataset: song_artists
+2021-02-01 22:59:38,840 - root - INFO - Normal class: 0
+2021-02-01 22:59:38,840 - root - INFO - Tokenizer: spacy
+2021-02-01 22:59:38,840 - root - INFO - Clean text in pre-processing: True
+2021-02-01 22:59:38,840 - root - INFO - Word vector embedding size: 300
+2021-02-01 22:59:38,840 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 22:59:38,840 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 22:59:38,840 - root - INFO - Use tf-idf weights: False
+2021-02-01 22:59:38,840 - root - INFO - Normalize embedding: False
+2021-02-01 22:59:38,840 - root - INFO - OC-SVM kernel: linear
+2021-02-01 22:59:38,840 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 22:59:38,841 - root - INFO - Set seed to 1.
+2021-02-01 22:59:38,841 - root - INFO - Computation device: cpu
+2021-02-01 22:59:38,841 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:01:35,405 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:01:35,405 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:01:35,405 - root - INFO - Export path is ..
+2021-02-01 23:01:35,405 - root - INFO - Dataset: song_artists
+2021-02-01 23:01:35,405 - root - INFO - Normal class: 0
+2021-02-01 23:01:35,405 - root - INFO - Tokenizer: spacy
+2021-02-01 23:01:35,405 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:01:35,405 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:01:35,405 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:01:35,405 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:01:35,405 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:01:35,405 - root - INFO - Normalize embedding: False
+2021-02-01 23:01:35,405 - root - INFO - OC-SVM kernel: linear
+2021-02-01 23:01:35,405 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 23:01:35,412 - root - INFO - Set seed to 1.
+2021-02-01 23:01:35,412 - root - INFO - Computation device: cpu
+2021-02-01 23:01:35,412 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:01:57,625 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:01:57,625 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:01:57,625 - root - INFO - Export path is ..
+2021-02-01 23:01:57,625 - root - INFO - Dataset: song_artists
+2021-02-01 23:01:57,625 - root - INFO - Normal class: 0
+2021-02-01 23:01:57,625 - root - INFO - Tokenizer: spacy
+2021-02-01 23:01:57,625 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:01:57,625 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:01:57,625 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:01:57,625 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:01:57,625 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:01:57,625 - root - INFO - Normalize embedding: False
+2021-02-01 23:01:57,625 - root - INFO - OC-SVM kernel: linear
+2021-02-01 23:01:57,625 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 23:01:57,632 - root - INFO - Set seed to 1.
+2021-02-01 23:01:57,632 - root - INFO - Computation device: cpu
+2021-02-01 23:01:57,632 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:01:59,089 - torchnlp.download - INFO - Downloading glove.6B.zip
+2021-02-01 23:02:40,095 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:02:40,095 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:02:40,095 - root - INFO - Export path is ..
+2021-02-01 23:02:40,095 - root - INFO - Dataset: song_artists
+2021-02-01 23:02:40,095 - root - INFO - Normal class: 0
+2021-02-01 23:02:40,095 - root - INFO - Tokenizer: spacy
+2021-02-01 23:02:40,096 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:02:40,096 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:02:40,096 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:02:40,096 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:02:40,096 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:02:40,096 - root - INFO - Normalize embedding: False
+2021-02-01 23:02:40,096 - root - INFO - OC-SVM kernel: linear
+2021-02-01 23:02:40,096 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 23:02:40,096 - root - INFO - Set seed to 1.
+2021-02-01 23:02:40,096 - root - INFO - Computation device: cpu
+2021-02-01 23:02:40,096 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:02:41,488 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:02:42,177 - root - INFO - Starting training...
+2021-02-01 23:02:42,195 - root - INFO - Training Time: 0.001s
+2021-02-01 23:02:42,196 - root - INFO - Finished training.
+2021-02-01 23:02:42,196 - root - INFO - Starting testing...
+2021-02-01 23:02:42,244 - root - INFO - Test AUC: 49.50%
+2021-02-01 23:02:42,244 - root - INFO - Test Time: 0.002s
+2021-02-01 23:02:42,244 - root - INFO - Finished testing.
+2021-02-01 23:16:08,711 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:16:08,718 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:16:08,718 - root - INFO - Export path is ..
+2021-02-01 23:16:08,718 - root - INFO - Dataset: song_artists
+2021-02-01 23:16:08,718 - root - INFO - Normal class: 0
+2021-02-01 23:16:08,718 - root - INFO - Tokenizer: spacy
+2021-02-01 23:16:08,718 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:16:08,718 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:16:08,718 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:16:08,718 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:16:08,718 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:16:08,718 - root - INFO - Normalize embedding: False
+2021-02-01 23:16:08,718 - root - INFO - OC-SVM kernel: linear
+2021-02-01 23:16:08,718 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 23:16:08,719 - root - INFO - Set seed to 1.
+2021-02-01 23:16:08,719 - root - INFO - Computation device: cpu
+2021-02-01 23:16:08,719 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:16:10,141 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:16:10,527 - root - INFO - Starting training...
+2021-02-01 23:16:10,533 - root - INFO - Training Time: 0.001s
+2021-02-01 23:16:10,533 - root - INFO - Finished training.
+2021-02-01 23:16:10,533 - root - INFO - Starting testing...
+2021-02-01 23:16:10,578 - root - INFO - Test AUC: 49.50%
+2021-02-01 23:16:10,578 - root - INFO - Test Time: 0.002s
+2021-02-01 23:16:10,578 - root - INFO - Finished testing.
+2021-02-01 23:35:39,024 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:35:39,024 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:35:39,024 - root - INFO - Export path is ..
+2021-02-01 23:35:39,024 - root - INFO - Dataset: song_artists
+2021-02-01 23:35:39,024 - root - INFO - Normal class: 0
+2021-02-01 23:35:39,024 - root - INFO - Tokenizer: spacy
+2021-02-01 23:35:39,024 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:35:39,024 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:35:39,024 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:35:39,024 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:35:39,024 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:35:39,024 - root - INFO - Normalize embedding: False
+2021-02-01 23:35:39,024 - root - INFO - OC-SVM kernel: linear
+2021-02-01 23:35:39,024 - root - INFO - Nu-paramerter: 0.05
+2021-02-01 23:35:39,025 - root - INFO - Set seed to 1.
+2021-02-01 23:35:39,025 - root - INFO - Computation device: cpu
+2021-02-01 23:35:39,025 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:35:40,420 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:35:40,808 - root - INFO - Starting training...
+2021-02-01 23:35:40,814 - root - INFO - Training Time: 0.001s
+2021-02-01 23:35:40,814 - root - INFO - Finished training.
+2021-02-01 23:35:40,814 - root - INFO - Starting testing...
+2021-02-01 23:35:40,863 - root - INFO - Test AUC: 49.50%
+2021-02-01 23:35:40,864 - root - INFO - Test Time: 0.002s
+2021-02-01 23:35:40,864 - root - INFO - Finished testing.
+2021-02-01 23:53:49,450 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:53:49,450 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:53:49,450 - root - INFO - Export path is ..
+2021-02-01 23:53:49,450 - root - INFO - Dataset: song_artists
+2021-02-01 23:53:49,450 - root - INFO - Normal class: 0
+2021-02-01 23:53:49,450 - root - INFO - Tokenizer: spacy
+2021-02-01 23:53:49,450 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:53:49,450 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:53:49,450 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:53:49,450 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:53:49,450 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:53:49,450 - root - INFO - Normalize embedding: False
+2021-02-01 23:53:49,450 - root - INFO - n_estimators: 100
+2021-02-01 23:53:49,450 - root - INFO - contamination: 0.00
+2021-02-01 23:53:49,451 - root - INFO - Set seed to 1.
+2021-02-01 23:53:49,451 - root - INFO - Computation device: cpu
+2021-02-01 23:53:49,451 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:53:50,864 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:53:51,251 - root - INFO - Starting training...
+2021-02-01 23:53:51,403 - root - INFO - Training Time: 0.147s
+2021-02-01 23:53:51,403 - root - INFO - Finished training.
+2021-02-01 23:53:51,403 - root - INFO - Starting testing...
+2021-02-01 23:53:51,487 - root - INFO - Test AUC: 71.63%
+2021-02-01 23:53:51,488 - root - INFO - Test Time: 0.040s
+2021-02-01 23:53:51,488 - root - INFO - Finished testing.
+2021-02-01 23:53:51,540 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:53:51,898 - root - INFO - Starting training...
+2021-02-01 23:53:52,172 - root - INFO - Training Time: 0.270s
+2021-02-01 23:53:52,172 - root - INFO - Finished training.
+2021-02-01 23:53:52,172 - root - INFO - Starting testing...
+2021-02-01 23:53:52,272 - root - INFO - Test AUC: 67.91%
+2021-02-01 23:53:52,272 - root - INFO - Test Time: 0.061s
+2021-02-01 23:53:52,272 - root - INFO - Finished testing.
+2021-02-01 23:53:52,325 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:53:52,681 - root - INFO - Starting training...
+2021-02-01 23:53:52,963 - root - INFO - Training Time: 0.278s
+2021-02-01 23:53:52,963 - root - INFO - Finished training.
+2021-02-01 23:53:52,963 - root - INFO - Starting testing...
+2021-02-01 23:53:53,080 - root - INFO - Test AUC: 71.40%
+2021-02-01 23:53:53,080 - root - INFO - Test Time: 0.075s
+2021-02-01 23:53:53,080 - root - INFO - Finished testing.
+2021-02-01 23:53:53,131 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:53:53,485 - root - INFO - Starting training...
+2021-02-01 23:53:53,904 - root - INFO - Training Time: 0.413s
+2021-02-01 23:53:53,904 - root - INFO - Finished training.
+2021-02-01 23:53:53,904 - root - INFO - Starting testing...
+2021-02-01 23:53:54,095 - root - INFO - Test AUC: 71.27%
+2021-02-01 23:53:54,095 - root - INFO - Test Time: 0.153s
+2021-02-01 23:53:54,095 - root - INFO - Finished testing.
+2021-02-01 23:59:06,537 - root - INFO - Log file is ./log.txt.
+2021-02-01 23:59:06,537 - root - INFO - Data path is ./data/song_artists/.
+2021-02-01 23:59:06,537 - root - INFO - Export path is ..
+2021-02-01 23:59:06,537 - root - INFO - Dataset: song_artists
+2021-02-01 23:59:06,537 - root - INFO - Normal class: 0
+2021-02-01 23:59:06,537 - root - INFO - Tokenizer: spacy
+2021-02-01 23:59:06,537 - root - INFO - Clean text in pre-processing: True
+2021-02-01 23:59:06,537 - root - INFO - Word vector embedding size: 300
+2021-02-01 23:59:06,537 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-01 23:59:06,537 - root - INFO - Reduction of word embeddings: mean
+2021-02-01 23:59:06,537 - root - INFO - Use tf-idf weights: False
+2021-02-01 23:59:06,537 - root - INFO - Normalize embedding: False
+2021-02-01 23:59:06,537 - root - INFO - n_estimators: 100
+2021-02-01 23:59:06,537 - root - INFO - contamination: 0.00
+2021-02-01 23:59:06,538 - root - INFO - Set seed to 1.
+2021-02-01 23:59:06,538 - root - INFO - Computation device: cpu
+2021-02-01 23:59:06,538 - root - INFO - Number of dataloader workers: 0
+2021-02-01 23:59:08,011 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-01 23:59:08,391 - root - INFO - Starting training...
+2021-02-01 23:59:08,529 - root - INFO - Training Time: 0.132s
+2021-02-01 23:59:08,529 - root - INFO - Finished training.
+2021-02-01 23:59:08,529 - root - INFO - Starting testing...
+2021-02-01 23:59:08,634 - root - INFO - Test AUC: 73.85%
+2021-02-01 23:59:08,634 - root - INFO - Test Time: 0.062s
+2021-02-01 23:59:08,634 - root - INFO - Finished testing.
+2021-02-02 00:00:09,324 - root - INFO - Log file is ./log.txt.
+2021-02-02 00:00:09,325 - root - INFO - Data path is ./data/song_artists/.
+2021-02-02 00:00:09,325 - root - INFO - Export path is ..
+2021-02-02 00:00:09,325 - root - INFO - Dataset: song_artists
+2021-02-02 00:00:09,325 - root - INFO - Normal class: 0
+2021-02-02 00:00:09,325 - root - INFO - Tokenizer: spacy
+2021-02-02 00:00:09,325 - root - INFO - Clean text in pre-processing: True
+2021-02-02 00:00:09,325 - root - INFO - Word vector embedding size: 300
+2021-02-02 00:00:09,325 - root - INFO - Load pre-trained word vectors: GloVe_6B
+2021-02-02 00:00:09,325 - root - INFO - Reduction of word embeddings: mean
+2021-02-02 00:00:09,325 - root - INFO - Use tf-idf weights: False
+2021-02-02 00:00:09,325 - root - INFO - Normalize embedding: False
+2021-02-02 00:00:09,325 - root - INFO - n_estimators: 100
+2021-02-02 00:00:09,325 - root - INFO - contamination: 0.00
+2021-02-02 00:00:09,326 - root - INFO - Set seed to 1.
+2021-02-02 00:00:09,326 - root - INFO - Computation device: cpu
+2021-02-02 00:00:09,326 - root - INFO - Number of dataloader workers: 0
+2021-02-02 00:00:10,852 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2021-02-02 00:00:11,239 - root - INFO - Starting training...
+2021-02-02 00:00:11,376 - root - INFO - Training Time: 0.132s
+2021-02-02 00:00:11,377 - root - INFO - Finished training.
+2021-02-02 00:00:11,377 - root - INFO - Starting testing...
+2021-02-02 00:00:11,482 - root - INFO - Test AUC: 73.85%
+2021-02-02 00:00:11,483 - root - INFO - Test Time: 0.062s
+2021-02-02 00:00:11,483 - root - INFO - Finished testing.

@@ -1,0 +1,447 @@
+INFO:root:Log file is ../log/ag_news/log.txt.
+INFO:root:Data path is ../data.
+INFO:root:Export path is ../log/ag_news.
+INFO:root:Dataset: ag_news
+INFO:root:Normal class: 3
+INFO:root:Network: cvdd_Net
+INFO:root:Tokenizer: spacy
+INFO:root:Clean text in pre-processing: True
+INFO:root:Word vector embedding size: 300
+INFO:root:Load pre-trained model: FastText_en
+INFO:root:Anomaly Score: context_dist_mean
+INFO:root:Number of attention heads: 3
+INFO:root:Attention size: 150
+INFO:root:Orthogonality regularization hyperparameter: 1.000
+INFO:root:Temperature alpha annealing strategy: logarithmic
+INFO:root:Set seed to 1.
+INFO:root:Computation device: cuda
+INFO:root:Number of dataloader workers: 0
+INFO:torchnlp.word_to_vector.pretrained_word_vectors:Loading vectors from ../data/word_vectors_cache/wiki.en.vec.pt
+INFO:root:Initialize context vectors...
+INFO:root:Context vectors initialized.
+INFO:root:Starting training...
+INFO:root:| Epoch: 001/100 | Train Time: 2.528s | Train Loss: 0.157134 |
+INFO:root:| Epoch: 002/100 | Train Time: 2.554s | Train Loss: 0.149044 |
+INFO:root:| Epoch: 003/100 | Train Time: 2.654s | Train Loss: 0.148826 |
+INFO:root:| Epoch: 004/100 | Train Time: 2.560s | Train Loss: 0.148865 |
+INFO:root:| Epoch: 005/100 | Train Time: 2.504s | Train Loss: 0.149108 |
+INFO:root:| Epoch: 006/100 | Train Time: 2.285s | Train Loss: 0.149054 |
+INFO:root:| Epoch: 007/100 | Train Time: 1.980s | Train Loss: 0.149023 |
+INFO:root:| Epoch: 008/100 | Train Time: 2.291s | Train Loss: 0.148938 |
+INFO:root:| Epoch: 009/100 | Train Time: 2.464s | Train Loss: 0.148967 |
+INFO:root:| Epoch: 010/100 | Train Time: 2.431s | Train Loss: 0.149093 |
+INFO:root:| Epoch: 011/100 | Train Time: 2.423s | Train Loss: 0.149056 |
+INFO:root:| Epoch: 012/100 | Train Time: 2.360s | Train Loss: 0.148913 |
+INFO:root:| Epoch: 013/100 | Train Time: 2.344s | Train Loss: 0.149036 |
+INFO:root:| Epoch: 014/100 | Train Time: 2.316s | Train Loss: 0.149032 |
+INFO:root:| Epoch: 015/100 | Train Time: 2.315s | Train Loss: 0.148946 |
+INFO:root:| Epoch: 016/100 | Train Time: 2.355s | Train Loss: 0.148869 |
+INFO:root:| Epoch: 017/100 | Train Time: 2.364s | Train Loss: 0.148809 |
+INFO:root:| Epoch: 018/100 | Train Time: 2.408s | Train Loss: 0.148734 |
+INFO:root:| Epoch: 019/100 | Train Time: 2.380s | Train Loss: 0.149041 |
+INFO:root:| Epoch: 020/100 | Train Time: 2.334s | Train Loss: 0.148935 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.0001
+INFO:root:| Epoch: 021/100 | Train Time: 2.380s | Train Loss: 0.149067 |
+INFO:root:| Epoch: 022/100 | Train Time: 2.375s | Train Loss: 0.148923 |
+INFO:root:| Epoch: 023/100 | Train Time: 2.383s | Train Loss: 0.149022 |
+INFO:root:| Epoch: 024/100 | Train Time: 2.412s | Train Loss: 0.149045 |
+INFO:root:| Epoch: 025/100 | Train Time: 2.261s | Train Loss: 0.148854 |
+INFO:root:| Epoch: 026/100 | Train Time: 2.309s | Train Loss: 0.148833 |
+INFO:root:| Epoch: 027/100 | Train Time: 2.405s | Train Loss: 0.148941 |
+INFO:root:| Epoch: 028/100 | Train Time: 2.356s | Train Loss: 0.148868 |
+INFO:root:| Epoch: 029/100 | Train Time: 2.432s | Train Loss: 0.148936 |
+INFO:root:| Epoch: 030/100 | Train Time: 2.423s | Train Loss: 0.149008 |
+INFO:root:| Epoch: 031/100 | Train Time: 2.514s | Train Loss: 0.148973 |
+INFO:root:| Epoch: 032/100 | Train Time: 2.168s | Train Loss: 0.148948 |
+INFO:root:| Epoch: 033/100 | Train Time: 2.044s | Train Loss: 0.149087 |
+INFO:root:| Epoch: 034/100 | Train Time: 2.049s | Train Loss: 0.148855 |
+INFO:root:| Epoch: 035/100 | Train Time: 2.516s | Train Loss: 0.148949 |
+INFO:root:| Epoch: 036/100 | Train Time: 2.339s | Train Loss: 0.148889 |
+INFO:root:| Epoch: 037/100 | Train Time: 2.129s | Train Loss: 0.149026 |
+INFO:root:| Epoch: 038/100 | Train Time: 2.193s | Train Loss: 0.148954 |
+INFO:root:| Epoch: 039/100 | Train Time: 2.427s | Train Loss: 0.148876 |
+INFO:root:| Epoch: 040/100 | Train Time: 2.532s | Train Loss: 0.147240 |
+INFO:root:  LR scheduler: new learning rate is 0.001
+INFO:root:  Temperature alpha scheduler: new alpha is 0.001
+INFO:root:| Epoch: 041/100 | Train Time: 2.632s | Train Loss: 0.147153 |
+INFO:root:| Epoch: 042/100 | Train Time: 2.517s | Train Loss: 0.147150 |
+INFO:root:| Epoch: 043/100 | Train Time: 2.499s | Train Loss: 0.147139 |
+INFO:root:| Epoch: 044/100 | Train Time: 2.514s | Train Loss: 0.147148 |
+INFO:root:| Epoch: 045/100 | Train Time: 2.425s | Train Loss: 0.147152 |
+INFO:root:| Epoch: 046/100 | Train Time: 2.638s | Train Loss: 0.147134 |
+INFO:root:| Epoch: 047/100 | Train Time: 2.523s | Train Loss: 0.147132 |
+INFO:root:| Epoch: 048/100 | Train Time: 2.687s | Train Loss: 0.147126 |
+INFO:root:| Epoch: 049/100 | Train Time: 2.550s | Train Loss: 0.147160 |
+INFO:root:| Epoch: 050/100 | Train Time: 2.517s | Train Loss: 0.147145 |
+INFO:root:| Epoch: 051/100 | Train Time: 2.442s | Train Loss: 0.147145 |
+INFO:root:| Epoch: 052/100 | Train Time: 2.482s | Train Loss: 0.147141 |
+INFO:root:| Epoch: 053/100 | Train Time: 2.506s | Train Loss: 0.147145 |
+INFO:root:| Epoch: 054/100 | Train Time: 2.603s | Train Loss: 0.147137 |
+INFO:root:| Epoch: 055/100 | Train Time: 2.621s | Train Loss: 0.147134 |
+INFO:root:| Epoch: 056/100 | Train Time: 2.516s | Train Loss: 0.147166 |
+INFO:root:| Epoch: 057/100 | Train Time: 2.627s | Train Loss: 0.147155 |
+INFO:root:| Epoch: 058/100 | Train Time: 2.497s | Train Loss: 0.147148 |
+INFO:root:| Epoch: 059/100 | Train Time: 2.547s | Train Loss: 0.147119 |
+INFO:root:| Epoch: 060/100 | Train Time: 2.543s | Train Loss: 0.147124 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.01
+INFO:root:| Epoch: 061/100 | Train Time: 2.559s | Train Loss: 0.147105 |
+INFO:root:| Epoch: 062/100 | Train Time: 2.545s | Train Loss: 0.147080 |
+INFO:root:| Epoch: 063/100 | Train Time: 2.544s | Train Loss: 0.147136 |
+INFO:root:| Epoch: 064/100 | Train Time: 2.457s | Train Loss: 0.147113 |
+INFO:root:| Epoch: 065/100 | Train Time: 2.432s | Train Loss: 0.147122 |
+INFO:root:| Epoch: 066/100 | Train Time: 2.399s | Train Loss: 0.147067 |
+INFO:root:| Epoch: 067/100 | Train Time: 2.606s | Train Loss: 0.147113 |
+INFO:root:| Epoch: 068/100 | Train Time: 2.702s | Train Loss: 0.147143 |
+INFO:root:| Epoch: 069/100 | Train Time: 2.574s | Train Loss: 0.147112 |
+INFO:root:| Epoch: 070/100 | Train Time: 2.457s | Train Loss: 0.147086 |
+INFO:root:| Epoch: 071/100 | Train Time: 2.762s | Train Loss: 0.147132 |
+INFO:root:| Epoch: 072/100 | Train Time: 2.525s | Train Loss: 0.147125 |
+INFO:root:| Epoch: 073/100 | Train Time: 2.418s | Train Loss: 0.147085 |
+INFO:root:| Epoch: 074/100 | Train Time: 2.514s | Train Loss: 0.147117 |
+INFO:root:| Epoch: 075/100 | Train Time: 2.521s | Train Loss: 0.147105 |
+INFO:root:| Epoch: 076/100 | Train Time: 2.559s | Train Loss: 0.147103 |
+INFO:root:| Epoch: 077/100 | Train Time: 2.572s | Train Loss: 0.147060 |
+INFO:root:| Epoch: 078/100 | Train Time: 2.448s | Train Loss: 0.147110 |
+INFO:root:| Epoch: 079/100 | Train Time: 2.384s | Train Loss: 0.147098 |
+INFO:root:| Epoch: 080/100 | Train Time: 2.384s | Train Loss: 0.147080 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.1
+INFO:root:| Epoch: 081/100 | Train Time: 2.420s | Train Loss: 0.146898 |
+INFO:root:| Epoch: 082/100 | Train Time: 2.352s | Train Loss: 0.146901 |
+INFO:root:| Epoch: 083/100 | Train Time: 2.408s | Train Loss: 0.146872 |
+INFO:root:| Epoch: 084/100 | Train Time: 2.712s | Train Loss: 0.146865 |
+INFO:root:| Epoch: 085/100 | Train Time: 2.829s | Train Loss: 0.146878 |
+INFO:root:| Epoch: 086/100 | Train Time: 2.522s | Train Loss: 0.146872 |
+INFO:root:| Epoch: 087/100 | Train Time: 2.635s | Train Loss: 0.146889 |
+INFO:root:| Epoch: 088/100 | Train Time: 2.680s | Train Loss: 0.146886 |
+INFO:root:| Epoch: 089/100 | Train Time: 2.508s | Train Loss: 0.146879 |
+INFO:root:| Epoch: 090/100 | Train Time: 2.403s | Train Loss: 0.146879 |
+INFO:root:| Epoch: 091/100 | Train Time: 2.420s | Train Loss: 0.146899 |
+INFO:root:| Epoch: 092/100 | Train Time: 2.431s | Train Loss: 0.146879 |
+INFO:root:| Epoch: 093/100 | Train Time: 2.427s | Train Loss: 0.146866 |
+INFO:root:| Epoch: 094/100 | Train Time: 2.445s | Train Loss: 0.146867 |
+INFO:root:| Epoch: 095/100 | Train Time: 2.374s | Train Loss: 0.146888 |
+INFO:root:| Epoch: 096/100 | Train Time: 2.436s | Train Loss: 0.146885 |
+INFO:root:| Epoch: 097/100 | Train Time: 2.436s | Train Loss: 0.146884 |
+INFO:root:| Epoch: 098/100 | Train Time: 2.474s | Train Loss: 0.146881 |
+INFO:root:| Epoch: 099/100 | Train Time: 2.632s | Train Loss: 0.146876 |
+INFO:root:| Epoch: 100/100 | Train Time: 2.481s | Train Loss: 0.146875 |
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Training Time: 247.450s
+INFO:root:Finished training.
+INFO:root:Starting testing...
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Test Loss: 0.175332
+INFO:root:Test AUC: 73.93%
+INFO:root:Test Best Context: None
+INFO:root:Test Time: 0.319s
+INFO:root:Finished testing.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+../../ag_od/reduced/train/business.txt
+../../ag_od/reduced/train/sci.txt
+../../ag_od/reduced/train/sports.txt
+../../ag_od/reduced/train/world.txt
+../../ag_od/reduced/test/business.txt
+../../ag_od/reduced/test/sci.txt
+../../ag_od/reduced/test/sports.txt
+../../ag_od/reduced/test/world.txt
+30000
+INFO:root:Log file is ../log/ag_news/log.txt.
+INFO:root:Data path is ../data.
+INFO:root:Export path is ../log/ag_news.
+INFO:root:Dataset: ag_news
+INFO:root:Normal class: 3
+INFO:root:Network: cvdd_Net
+INFO:root:Tokenizer: spacy
+INFO:root:Clean text in pre-processing: True
+INFO:root:Word vector embedding size: 300
+INFO:root:Load pre-trained model: FastText_en
+INFO:root:Anomaly Score: context_dist_mean
+INFO:root:Number of attention heads: 5
+INFO:root:Attention size: 150
+INFO:root:Orthogonality regularization hyperparameter: 1.000
+INFO:root:Temperature alpha annealing strategy: logarithmic
+INFO:root:Set seed to 1.
+INFO:root:Computation device: cuda
+INFO:root:Number of dataloader workers: 0
+INFO:torchnlp.word_to_vector.pretrained_word_vectors:Loading vectors from ../data/word_vectors_cache/wiki.en.vec.pt
+INFO:root:Initialize context vectors...
+INFO:root:Context vectors initialized.
+INFO:root:Starting training...
+INFO:root:| Epoch: 001/100 | Train Time: 2.910s | Train Loss: 0.186506 |
+INFO:root:| Epoch: 002/100 | Train Time: 2.583s | Train Loss: 0.178077 |
+INFO:root:| Epoch: 003/100 | Train Time: 2.466s | Train Loss: 0.177967 |
+INFO:root:| Epoch: 004/100 | Train Time: 2.542s | Train Loss: 0.177995 |
+INFO:root:| Epoch: 005/100 | Train Time: 2.613s | Train Loss: 0.178199 |
+INFO:root:| Epoch: 006/100 | Train Time: 2.541s | Train Loss: 0.178090 |
+INFO:root:| Epoch: 007/100 | Train Time: 2.515s | Train Loss: 0.178090 |
+INFO:root:| Epoch: 008/100 | Train Time: 2.528s | Train Loss: 0.178054 |
+INFO:root:| Epoch: 009/100 | Train Time: 2.516s | Train Loss: 0.178086 |
+INFO:root:| Epoch: 010/100 | Train Time: 2.627s | Train Loss: 0.178204 |
+INFO:root:| Epoch: 011/100 | Train Time: 2.866s | Train Loss: 0.178152 |
+INFO:root:| Epoch: 012/100 | Train Time: 2.448s | Train Loss: 0.178081 |
+INFO:root:| Epoch: 013/100 | Train Time: 2.407s | Train Loss: 0.178165 |
+INFO:root:| Epoch: 014/100 | Train Time: 2.518s | Train Loss: 0.178201 |
+INFO:root:| Epoch: 015/100 | Train Time: 2.722s | Train Loss: 0.178023 |
+INFO:root:| Epoch: 016/100 | Train Time: 2.454s | Train Loss: 0.178067 |
+INFO:root:| Epoch: 017/100 | Train Time: 2.402s | Train Loss: 0.178037 |
+INFO:root:| Epoch: 018/100 | Train Time: 2.409s | Train Loss: 0.177968 |
+INFO:root:| Epoch: 019/100 | Train Time: 2.422s | Train Loss: 0.178216 |
+INFO:root:| Epoch: 020/100 | Train Time: 2.398s | Train Loss: 0.178044 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.0001
+INFO:root:| Epoch: 021/100 | Train Time: 2.427s | Train Loss: 0.178154 |
+INFO:root:| Epoch: 022/100 | Train Time: 2.371s | Train Loss: 0.178025 |
+INFO:root:| Epoch: 023/100 | Train Time: 2.327s | Train Loss: 0.178085 |
+INFO:root:| Epoch: 024/100 | Train Time: 2.389s | Train Loss: 0.178137 |
+INFO:root:| Epoch: 025/100 | Train Time: 2.465s | Train Loss: 0.178019 |
+INFO:root:| Epoch: 026/100 | Train Time: 2.570s | Train Loss: 0.177991 |
+INFO:root:| Epoch: 027/100 | Train Time: 2.610s | Train Loss: 0.178116 |
+INFO:root:| Epoch: 028/100 | Train Time: 2.647s | Train Loss: 0.178027 |
+INFO:root:| Epoch: 029/100 | Train Time: 2.422s | Train Loss: 0.178141 |
+INFO:root:| Epoch: 030/100 | Train Time: 2.468s | Train Loss: 0.178095 |
+INFO:root:| Epoch: 031/100 | Train Time: 2.465s | Train Loss: 0.178120 |
+INFO:root:| Epoch: 032/100 | Train Time: 2.562s | Train Loss: 0.178123 |
+INFO:root:| Epoch: 033/100 | Train Time: 2.771s | Train Loss: 0.178058 |
+INFO:root:| Epoch: 034/100 | Train Time: 2.485s | Train Loss: 0.178051 |
+INFO:root:| Epoch: 035/100 | Train Time: 2.453s | Train Loss: 0.178097 |
+INFO:root:| Epoch: 036/100 | Train Time: 2.468s | Train Loss: 0.177997 |
+INFO:root:| Epoch: 037/100 | Train Time: 2.549s | Train Loss: 0.178083 |
+INFO:root:| Epoch: 038/100 | Train Time: 2.454s | Train Loss: 0.178101 |
+INFO:root:| Epoch: 039/100 | Train Time: 2.583s | Train Loss: 0.178030 |
+INFO:root:| Epoch: 040/100 | Train Time: 2.503s | Train Loss: 0.176307 |
+INFO:root:  LR scheduler: new learning rate is 0.001
+INFO:root:  Temperature alpha scheduler: new alpha is 0.001
+INFO:root:| Epoch: 041/100 | Train Time: 2.632s | Train Loss: 0.176255 |
+INFO:root:| Epoch: 042/100 | Train Time: 2.504s | Train Loss: 0.176232 |
+INFO:root:| Epoch: 043/100 | Train Time: 2.603s | Train Loss: 0.176234 |
+INFO:root:| Epoch: 044/100 | Train Time: 2.575s | Train Loss: 0.176236 |
+INFO:root:| Epoch: 045/100 | Train Time: 2.704s | Train Loss: 0.176233 |
+INFO:root:| Epoch: 046/100 | Train Time: 2.831s | Train Loss: 0.176229 |
+INFO:root:| Epoch: 047/100 | Train Time: 2.423s | Train Loss: 0.176225 |
+INFO:root:| Epoch: 048/100 | Train Time: 2.507s | Train Loss: 0.176225 |
+INFO:root:| Epoch: 049/100 | Train Time: 2.447s | Train Loss: 0.176237 |
+INFO:root:| Epoch: 050/100 | Train Time: 2.441s | Train Loss: 0.176249 |
+INFO:root:| Epoch: 051/100 | Train Time: 2.496s | Train Loss: 0.176217 |
+INFO:root:| Epoch: 052/100 | Train Time: 2.503s | Train Loss: 0.176226 |
+INFO:root:| Epoch: 053/100 | Train Time: 2.662s | Train Loss: 0.176234 |
+INFO:root:| Epoch: 054/100 | Train Time: 2.428s | Train Loss: 0.176228 |
+INFO:root:| Epoch: 055/100 | Train Time: 2.492s | Train Loss: 0.176223 |
+INFO:root:| Epoch: 056/100 | Train Time: 2.504s | Train Loss: 0.176234 |
+INFO:root:| Epoch: 057/100 | Train Time: 2.441s | Train Loss: 0.176243 |
+INFO:root:| Epoch: 058/100 | Train Time: 2.518s | Train Loss: 0.176233 |
+INFO:root:| Epoch: 059/100 | Train Time: 2.476s | Train Loss: 0.176207 |
+INFO:root:| Epoch: 060/100 | Train Time: 2.403s | Train Loss: 0.176228 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.01
+INFO:root:| Epoch: 061/100 | Train Time: 2.627s | Train Loss: 0.176174 |
+INFO:root:| Epoch: 062/100 | Train Time: 2.397s | Train Loss: 0.176202 |
+INFO:root:| Epoch: 063/100 | Train Time: 2.400s | Train Loss: 0.176199 |
+INFO:root:| Epoch: 064/100 | Train Time: 2.431s | Train Loss: 0.176197 |
+INFO:root:| Epoch: 065/100 | Train Time: 2.371s | Train Loss: 0.176166 |
+INFO:root:| Epoch: 066/100 | Train Time: 2.596s | Train Loss: 0.176151 |
+INFO:root:| Epoch: 067/100 | Train Time: 2.519s | Train Loss: 0.176187 |
+INFO:root:| Epoch: 068/100 | Train Time: 2.490s | Train Loss: 0.176206 |
+INFO:root:| Epoch: 069/100 | Train Time: 2.471s | Train Loss: 0.176184 |
+INFO:root:| Epoch: 070/100 | Train Time: 2.413s | Train Loss: 0.176174 |
+INFO:root:| Epoch: 071/100 | Train Time: 2.411s | Train Loss: 0.176176 |
+INFO:root:| Epoch: 072/100 | Train Time: 2.412s | Train Loss: 0.176183 |
+INFO:root:| Epoch: 073/100 | Train Time: 2.401s | Train Loss: 0.176198 |
+INFO:root:| Epoch: 074/100 | Train Time: 2.416s | Train Loss: 0.176190 |
+INFO:root:| Epoch: 075/100 | Train Time: 2.328s | Train Loss: 0.176170 |
+INFO:root:| Epoch: 076/100 | Train Time: 2.399s | Train Loss: 0.176184 |
+INFO:root:| Epoch: 077/100 | Train Time: 2.469s | Train Loss: 0.176151 |
+INFO:root:| Epoch: 078/100 | Train Time: 2.612s | Train Loss: 0.176194 |
+INFO:root:| Epoch: 079/100 | Train Time: 2.520s | Train Loss: 0.176199 |
+INFO:root:| Epoch: 080/100 | Train Time: 2.511s | Train Loss: 0.176167 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.1
+INFO:root:| Epoch: 081/100 | Train Time: 2.674s | Train Loss: 0.175825 |
+INFO:root:| Epoch: 082/100 | Train Time: 2.504s | Train Loss: 0.175838 |
+INFO:root:| Epoch: 083/100 | Train Time: 2.519s | Train Loss: 0.175804 |
+INFO:root:| Epoch: 084/100 | Train Time: 2.446s | Train Loss: 0.175819 |
+INFO:root:| Epoch: 085/100 | Train Time: 2.376s | Train Loss: 0.175812 |
+INFO:root:| Epoch: 086/100 | Train Time: 2.294s | Train Loss: 0.175818 |
+INFO:root:| Epoch: 087/100 | Train Time: 2.316s | Train Loss: 0.175818 |
+INFO:root:| Epoch: 088/100 | Train Time: 2.600s | Train Loss: 0.175812 |
+INFO:root:| Epoch: 089/100 | Train Time: 2.769s | Train Loss: 0.175826 |
+INFO:root:| Epoch: 090/100 | Train Time: 2.751s | Train Loss: 0.175809 |
+INFO:root:| Epoch: 091/100 | Train Time: 2.737s | Train Loss: 0.175826 |
+INFO:root:| Epoch: 092/100 | Train Time: 2.701s | Train Loss: 0.175813 |
+INFO:root:| Epoch: 093/100 | Train Time: 2.779s | Train Loss: 0.175819 |
+INFO:root:| Epoch: 094/100 | Train Time: 2.424s | Train Loss: 0.175804 |
+INFO:root:| Epoch: 095/100 | Train Time: 2.385s | Train Loss: 0.175815 |
+INFO:root:| Epoch: 096/100 | Train Time: 2.546s | Train Loss: 0.175826 |
+INFO:root:| Epoch: 097/100 | Train Time: 2.468s | Train Loss: 0.175826 |
+INFO:root:| Epoch: 098/100 | Train Time: 2.381s | Train Loss: 0.175802 |
+INFO:root:| Epoch: 099/100 | Train Time: 2.417s | Train Loss: 0.175797 |
+INFO:root:| Epoch: 100/100 | Train Time: 2.364s | Train Loss: 0.175799 |
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Training Time: 253.259s
+INFO:root:Finished training.
+INFO:root:Starting testing...
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Test Loss: 0.210866
+INFO:root:Test AUC: 79.56%
+INFO:root:Test Best Context: None
+INFO:root:Test Time: 0.297s
+INFO:root:Finished testing.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+../../ag_od/reduced/train/business.txt
+../../ag_od/reduced/train/sci.txt
+../../ag_od/reduced/train/sports.txt
+../../ag_od/reduced/train/world.txt
+../../ag_od/reduced/test/business.txt
+../../ag_od/reduced/test/sci.txt
+../../ag_od/reduced/test/sports.txt
+../../ag_od/reduced/test/world.txt
+30000
+INFO:root:Log file is ../log/ag_news/log.txt.
+INFO:root:Data path is ../data.
+INFO:root:Export path is ../log/ag_news.
+INFO:root:Dataset: ag_news
+INFO:root:Normal class: 3
+INFO:root:Network: cvdd_Net
+INFO:root:Tokenizer: spacy
+INFO:root:Clean text in pre-processing: True
+INFO:root:Word vector embedding size: 300
+INFO:root:Load pre-trained model: FastText_en
+INFO:root:Anomaly Score: context_dist_mean
+INFO:root:Number of attention heads: 10
+INFO:root:Attention size: 150
+INFO:root:Orthogonality regularization hyperparameter: 1.000
+INFO:root:Temperature alpha annealing strategy: logarithmic
+INFO:root:Set seed to 1.
+INFO:root:Computation device: cuda
+INFO:root:Number of dataloader workers: 0
+INFO:torchnlp.word_to_vector.pretrained_word_vectors:Loading vectors from ../data/word_vectors_cache/wiki.en.vec.pt
+INFO:root:Initialize context vectors...
+INFO:root:Context vectors initialized.
+INFO:root:Starting training...
+INFO:root:| Epoch: 001/100 | Train Time: 2.490s | Train Loss: 0.164426 |
+INFO:root:| Epoch: 002/100 | Train Time: 2.505s | Train Loss: 0.158726 |
+INFO:root:| Epoch: 003/100 | Train Time: 2.577s | Train Loss: 0.158641 |
+INFO:root:| Epoch: 004/100 | Train Time: 2.592s | Train Loss: 0.158479 |
+INFO:root:| Epoch: 005/100 | Train Time: 2.391s | Train Loss: 0.158519 |
+INFO:root:| Epoch: 006/100 | Train Time: 2.790s | Train Loss: 0.158526 |
+INFO:root:| Epoch: 007/100 | Train Time: 2.711s | Train Loss: 0.158535 |
+INFO:root:| Epoch: 008/100 | Train Time: 2.474s | Train Loss: 0.158366 |
+INFO:root:| Epoch: 009/100 | Train Time: 2.444s | Train Loss: 0.158353 |
+INFO:root:| Epoch: 010/100 | Train Time: 2.396s | Train Loss: 0.158488 |
+INFO:root:| Epoch: 011/100 | Train Time: 2.399s | Train Loss: 0.158460 |
+INFO:root:| Epoch: 012/100 | Train Time: 2.452s | Train Loss: 0.158374 |
+INFO:root:| Epoch: 013/100 | Train Time: 2.410s | Train Loss: 0.158618 |
+INFO:root:| Epoch: 014/100 | Train Time: 2.505s | Train Loss: 0.158487 |
+INFO:root:| Epoch: 015/100 | Train Time: 2.344s | Train Loss: 0.158312 |
+INFO:root:| Epoch: 016/100 | Train Time: 2.392s | Train Loss: 0.158174 |
+INFO:root:| Epoch: 017/100 | Train Time: 2.360s | Train Loss: 0.158227 |
+INFO:root:| Epoch: 018/100 | Train Time: 2.532s | Train Loss: 0.158515 |
+INFO:root:| Epoch: 019/100 | Train Time: 2.661s | Train Loss: 0.158552 |
+INFO:root:| Epoch: 020/100 | Train Time: 2.544s | Train Loss: 0.158373 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.0001
+INFO:root:| Epoch: 021/100 | Train Time: 2.411s | Train Loss: 0.158411 |
+INFO:root:| Epoch: 022/100 | Train Time: 2.336s | Train Loss: 0.158293 |
+INFO:root:| Epoch: 023/100 | Train Time: 2.440s | Train Loss: 0.158547 |
+INFO:root:| Epoch: 024/100 | Train Time: 2.537s | Train Loss: 0.158323 |
+INFO:root:| Epoch: 025/100 | Train Time: 2.370s | Train Loss: 0.158660 |
+INFO:root:| Epoch: 026/100 | Train Time: 2.321s | Train Loss: 0.158349 |
+INFO:root:| Epoch: 027/100 | Train Time: 2.392s | Train Loss: 0.158503 |
+INFO:root:| Epoch: 028/100 | Train Time: 2.469s | Train Loss: 0.158328 |
+INFO:root:| Epoch: 029/100 | Train Time: 2.436s | Train Loss: 0.158470 |
+INFO:root:| Epoch: 030/100 | Train Time: 2.429s | Train Loss: 0.158244 |
+INFO:root:| Epoch: 031/100 | Train Time: 2.511s | Train Loss: 0.158280 |
+INFO:root:| Epoch: 032/100 | Train Time: 2.400s | Train Loss: 0.158260 |
+INFO:root:| Epoch: 033/100 | Train Time: 2.324s | Train Loss: 0.158138 |
+INFO:root:| Epoch: 034/100 | Train Time: 2.356s | Train Loss: 0.158292 |
+INFO:root:| Epoch: 035/100 | Train Time: 2.375s | Train Loss: 0.158150 |
+INFO:root:| Epoch: 036/100 | Train Time: 2.394s | Train Loss: 0.158344 |
+INFO:root:| Epoch: 037/100 | Train Time: 2.525s | Train Loss: 0.158393 |
+INFO:root:| Epoch: 038/100 | Train Time: 2.424s | Train Loss: 0.158439 |
+INFO:root:| Epoch: 039/100 | Train Time: 2.395s | Train Loss: 0.158352 |
+INFO:root:| Epoch: 040/100 | Train Time: 2.437s | Train Loss: 0.155329 |
+INFO:root:  LR scheduler: new learning rate is 0.001
+INFO:root:  Temperature alpha scheduler: new alpha is 0.001
+INFO:root:| Epoch: 041/100 | Train Time: 2.479s | Train Loss: 0.155254 |
+INFO:root:| Epoch: 042/100 | Train Time: 2.383s | Train Loss: 0.155251 |
+INFO:root:| Epoch: 043/100 | Train Time: 2.381s | Train Loss: 0.155289 |
+INFO:root:| Epoch: 044/100 | Train Time: 2.171s | Train Loss: 0.155288 |
+INFO:root:| Epoch: 045/100 | Train Time: 2.075s | Train Loss: 0.155331 |
+INFO:root:| Epoch: 046/100 | Train Time: 2.515s | Train Loss: 0.155295 |
+INFO:root:| Epoch: 047/100 | Train Time: 2.602s | Train Loss: 0.155317 |
+INFO:root:| Epoch: 048/100 | Train Time: 2.458s | Train Loss: 0.155297 |
+INFO:root:| Epoch: 049/100 | Train Time: 2.389s | Train Loss: 0.155345 |
+INFO:root:| Epoch: 050/100 | Train Time: 2.389s | Train Loss: 0.155330 |
+INFO:root:| Epoch: 051/100 | Train Time: 2.561s | Train Loss: 0.155286 |
+INFO:root:| Epoch: 052/100 | Train Time: 2.506s | Train Loss: 0.155314 |
+INFO:root:| Epoch: 053/100 | Train Time: 2.346s | Train Loss: 0.155294 |
+INFO:root:| Epoch: 054/100 | Train Time: 2.424s | Train Loss: 0.155327 |
+INFO:root:| Epoch: 055/100 | Train Time: 2.340s | Train Loss: 0.155333 |
+INFO:root:| Epoch: 056/100 | Train Time: 2.335s | Train Loss: 0.155325 |
+INFO:root:| Epoch: 057/100 | Train Time: 2.480s | Train Loss: 0.155303 |
+INFO:root:| Epoch: 058/100 | Train Time: 2.487s | Train Loss: 0.155288 |
+INFO:root:| Epoch: 059/100 | Train Time: 2.490s | Train Loss: 0.155287 |
+INFO:root:| Epoch: 060/100 | Train Time: 2.438s | Train Loss: 0.155321 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.01
+INFO:root:| Epoch: 061/100 | Train Time: 2.623s | Train Loss: 0.155315 |
+INFO:root:| Epoch: 062/100 | Train Time: 2.587s | Train Loss: 0.155290 |
+INFO:root:| Epoch: 063/100 | Train Time: 2.517s | Train Loss: 0.155301 |
+INFO:root:| Epoch: 064/100 | Train Time: 2.470s | Train Loss: 0.155345 |
+INFO:root:| Epoch: 065/100 | Train Time: 2.403s | Train Loss: 0.155307 |
+INFO:root:| Epoch: 066/100 | Train Time: 2.290s | Train Loss: 0.155247 |
+INFO:root:| Epoch: 067/100 | Train Time: 2.314s | Train Loss: 0.155298 |
+INFO:root:| Epoch: 068/100 | Train Time: 2.327s | Train Loss: 0.155359 |
+INFO:root:| Epoch: 069/100 | Train Time: 2.392s | Train Loss: 0.155322 |
+INFO:root:| Epoch: 070/100 | Train Time: 2.340s | Train Loss: 0.155272 |
+INFO:root:| Epoch: 071/100 | Train Time: 2.413s | Train Loss: 0.155351 |
+INFO:root:| Epoch: 072/100 | Train Time: 2.379s | Train Loss: 0.155303 |
+INFO:root:| Epoch: 073/100 | Train Time: 2.389s | Train Loss: 0.155285 |
+INFO:root:| Epoch: 074/100 | Train Time: 2.580s | Train Loss: 0.155329 |
+INFO:root:| Epoch: 075/100 | Train Time: 2.483s | Train Loss: 0.155337 |
+INFO:root:| Epoch: 076/100 | Train Time: 2.484s | Train Loss: 0.155304 |
+INFO:root:| Epoch: 077/100 | Train Time: 2.438s | Train Loss: 0.155284 |
+INFO:root:| Epoch: 078/100 | Train Time: 2.327s | Train Loss: 0.155292 |
+INFO:root:| Epoch: 079/100 | Train Time: 2.330s | Train Loss: 0.155251 |
+INFO:root:| Epoch: 080/100 | Train Time: 2.422s | Train Loss: 0.155281 |
+INFO:root:  Temperature alpha scheduler: new alpha is 0.1
+INFO:root:| Epoch: 081/100 | Train Time: 2.384s | Train Loss: 0.155310 |
+INFO:root:| Epoch: 082/100 | Train Time: 2.364s | Train Loss: 0.155312 |
+INFO:root:| Epoch: 083/100 | Train Time: 2.369s | Train Loss: 0.155323 |
+INFO:root:| Epoch: 084/100 | Train Time: 2.419s | Train Loss: 0.155288 |
+INFO:root:| Epoch: 085/100 | Train Time: 2.347s | Train Loss: 0.155284 |
+INFO:root:| Epoch: 086/100 | Train Time: 2.348s | Train Loss: 0.155256 |
+INFO:root:| Epoch: 087/100 | Train Time: 2.430s | Train Loss: 0.155289 |
+INFO:root:| Epoch: 088/100 | Train Time: 2.364s | Train Loss: 0.155286 |
+INFO:root:| Epoch: 089/100 | Train Time: 2.388s | Train Loss: 0.155286 |
+INFO:root:| Epoch: 090/100 | Train Time: 2.371s | Train Loss: 0.155252 |
+INFO:root:| Epoch: 091/100 | Train Time: 2.328s | Train Loss: 0.155295 |
+INFO:root:| Epoch: 092/100 | Train Time: 2.313s | Train Loss: 0.155303 |
+INFO:root:| Epoch: 093/100 | Train Time: 2.420s | Train Loss: 0.155283 |
+INFO:root:| Epoch: 094/100 | Train Time: 2.390s | Train Loss: 0.155326 |
+INFO:root:| Epoch: 095/100 | Train Time: 2.335s | Train Loss: 0.155283 |
+INFO:root:| Epoch: 096/100 | Train Time: 2.332s | Train Loss: 0.155291 |
+INFO:root:| Epoch: 097/100 | Train Time: 2.356s | Train Loss: 0.155305 |
+INFO:root:| Epoch: 098/100 | Train Time: 2.408s | Train Loss: 0.155237 |
+INFO:root:| Epoch: 099/100 | Train Time: 2.300s | Train Loss: 0.155324 |
+INFO:root:| Epoch: 100/100 | Train Time: 2.406s | Train Loss: 0.155266 |
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Training Time: 243.464s
+INFO:root:Finished training.
+INFO:root:Starting testing...
+INFO:root:Get top words per context...
+INFO:root:Top words extracted.
+INFO:root:Test Loss: 0.170675
+INFO:root:Test AUC: 73.80%
+INFO:root:Test Best Context: None
+INFO:root:Test Time: 0.328s
+INFO:root:Finished testing.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+../../ag_od/reduced/train/business.txt
+../../ag_od/reduced/train/sci.txt
+../../ag_od/reduced/train/sports.txt
+../../ag_od/reduced/train/world.txt
+../../ag_od/reduced/test/business.txt
+../../ag_od/reduced/test/sci.txt
+../../ag_od/reduced/test/sports.txt
+../../ag_od/reduced/test/world.txt
+30000
