@@ -29,7 +29,7 @@ As part of a study making coreference systems more gender inclusive, we collecte
 
 1. **Who funded the creation of the dataset?** *(If there is an associated grant, please provide the name of the grantor and the grant name and number.)*
     
-    Project was partially funded by UEFISCDI, under Project PN-III-P2-2.1-PTE-2019-0532
+    Project was partially funded by UEFISCDI, under Project PN-III-P2-2.1-PTE-2019-0532.
 
 
 1. **Any other comments?**
