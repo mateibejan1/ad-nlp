@@ -99,7 +99,7 @@ As part of a study making coreference systems more gender inclusive, we collecte
     Each dataset is designated one directory, which contains train and test directories. These two directories contain multiple `txt` files. Each `txt` file represents one class. All samples of said class are written within that file. Samples are separated by two newline characters `\n\n`.
 
     An example of the dataset structure is provided below:
-
+```
     .
     ├── data                       
         ├── gutenberg_categories  
@@ -114,6 +114,8 @@ As part of a study making coreference systems more gender inclusive, we collecte
                 ├── CIA.txt
                 ...
     ├── ...
+
+```
 
 6. **Is any information missing from individual instances?** *(If so, please provide a description, explaining why this information is missing (e.g., because it was unavailable). This does not include intentionally removed information, but might include, e.g., redacted text.)*
     
