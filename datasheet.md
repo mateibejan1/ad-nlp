@@ -81,7 +81,7 @@ As part of a study making coreference systems more gender inclusive, we collecte
     | Song Genres          | 18,900   | 15,120  | 3780  | 
     | Gutenberg Authors    | 6000     | 5000    | 1000  | 
     | Gutenberg Categories | 5765     | 4765    | 1000  | 
-    | **TOTAL**            | **95**   | **70,614** | **6307** | **735** | **65** | **8.9%** |
+    | **TOTAL**            | **76921**   | **70,614** | **6307** |
 
 3. **Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?** *(If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (e.g., geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (e.g., to cover a more diverse range of instances, because instances were withheld or unavailable).)*
     
