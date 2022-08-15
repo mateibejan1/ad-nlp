@@ -100,7 +100,7 @@ As part of a study making coreference systems more gender inclusive, we collecte
 
     An example of the dataset structure is provided below:
 ```
-    .
+src
     ├── data                       
         ├── gutenberg_categories  
             ├── train               
