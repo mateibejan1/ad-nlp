@@ -189,7 +189,7 @@ src
 
 1. **What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?** *(How were these mechanisms or procedures validated?)*
     
-    Annotation was conducted using [TagEditor](https://github.com/d5555/TagEditor).
+    Annotation was conducted using our own custom script.
 
 
 1. **If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?**
@@ -264,10 +264,9 @@ src
 
 
 1. **Is the software used to preprocess/clean/label the instances available?** *(If so, please provide a link or other access point.)*
-    
-    Yes; it is [TagEditor](https://github.com/d5555/TagEditor) version 1.5.
-
-
+  
+    No.
+  
 1. **Any other comments?**
     
     None.
@@ -291,7 +290,7 @@ src
 
 1. **What (other) tasks could the dataset be used for?**
     
-    The dataset could possibly be used for developing or testing systems for referring expression generation. 
+    The dataset could possibly be used for developing or testing systems for anomaly detection. 
 
 
 1. **Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?** *(For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks)  If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?)*
