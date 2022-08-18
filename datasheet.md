@@ -356,7 +356,7 @@ src
 
 1. **Who is supporting/hosting/maintaining the dataset?**
     
-    Both authors (Trista Cao and Hal Daumé III) are maintaining. Hal is hosting on github.
+    Both authors (Matei Bejan and Andrei Manolache) are maintaining. Hosting is provided on Google Drive and Zenodo.
 
 
 1. **How can the owner/curator/manager of the dataset be contacted (e.g., email address)?**
