@@ -66,7 +66,8 @@ As part of a study making coreference systems more gender inclusive, we collecte
     
     For the newly-introduced Gutenberg Authors, Gutenberg Categories, we have selected 10 classes which we believed offer both intra and inter domain variety. We provide a list of said classes for eat dataset below.
 
-    TODO: add list
+    - Gutenberg Authors: Arthur Conan Doyle, Charles Dickens, Charles Darwin, Mark Twain, Edgar Allan Poe, Walter Scott, United States Central Intelligence Agency, H. G. Wells, L. M. Montgomery, Agatha Christie.
+    - Gutenberg Categories: Biology, Botany, United States Central Intelligence Agency, Canada, Detective, Historical, Mystery, Science, Children's, Harvard.
 
     For the newly-introduced Song Genres, our labeling procedure automatically labels the data taken from `150K Lyrics Labeled with Spotify Valence`, `dataset lyrics musics and `AZLyrics song lyrics` with the labels present in the `2018 Textract Hackathon` data, namely: Pop, Hip-Hop, Rock, Metal, Folk, Jazz, Country, and Electronic.
     
