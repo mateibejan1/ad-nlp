@@ -184,8 +184,7 @@ src
 
 1. **How was the data associated with each instance acquired?** *(Was the data directly observable (e.g., raw text, movie ratings), reported by subjects (e.g., survey responses), or indirectly inferred/derived from other data (e.g., part-of-speech tags, model-based guesses for age or language)? If data was reported by subjects or indirectly inferred/derived from other data, was the data validated/verified? If so, please describe how.)*
     
-    The data was all downloaded directly from associated webpages (Wikipedia, periodicals, or AO3). Tokenization and sentence segmentation was initially done automatically but corrected by hand.
-
+    The data was all downloaded directly from associated webpages ([20NG](http://qwone.com/~jason/20Newsgroups/), [AG-News](http://groups.di.unipi.it/~gulli/AG_corpus_of_news_articles.html), [CoLA](https://nyu-mll.github.io/CoLA/), [VUA](https://competitions.codalab.org/competitions/22188), [15000 Gutenberg Books](https://www.kaggle.com/datasets/mateibejan/15000-gutenberg-books), [Multi-Lingual Lyrics for Genre Classification](https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification)).
 
 1. **What mechanisms or procedures were used to collect the data (e.g., hardware apparatus or sensor, manual human curation, software program, software API)?** *(How were these mechanisms or procedures validated?)*
     
@@ -199,37 +198,36 @@ src
 
 1. **Who was involved in the data collection process (e.g., students, crowdworkers, contractors) and how were they compensated (e.g., how much were crowdworkers paid)?**
     
-    All collection and annotation was done by the two authors.
+    All collection was done by the two authors. Annotation was done for the VUA, Gutenberg Categories, Gutenberg Authors and Song Genres datasets.
 
 
 1. **Over what timeframe was the data collected?** *(Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)?  If not, please describe the timeframe in which the data associated with the instances was created.)*
     
-    The dataset was collected in the early Summer of 2019, which does not necessarily reflect the timeframe of the data collected.
+    The dataset was collected in between 2019 and 2020.
 
 
 1. **Were any ethical review processes conducted (e.g., by an institutional review board)?** *(If so, please provide a description of these review processes, including the outcomes, as well as a link or other access point to any supporting documentation.)*
     
-    No review processes were conducted with respect to the collection and annotation of this data (though review was done for other aspects of this work; see the paper linked at the top of the datasheet).
+    No review processes were conducted with respect to the collection and annotation of this data.
 
 
 1. **Does the dataset relate to people?** *(If not, you may skip the remaining questions in this section.)*
     
-    Yes; the majority of the documents in the dataset are articles about people (either their Wikipedia entries or stories about them in periodicals).
-
+  Yes, but only tangentially. There are news articles, novel paragraphs and songs that might reference real people or places.
 
 1. **Did you collect the data from the individuals in question directly, or obtain it via third parties or other sources (e.g., websites)?**
     
-    Other sources: Wikipedia and periodicals.
+    Other sources: Gutenberg Project, Sparktech Software and Kaggle.
 
 
 1. **Were the individuals in question notified about the data collection?** *(If so, please describe (or show with screenshots or other information) how notice was provided, and provide a link or other access point to, or otherwise reproduce, the exact language of the notification itself.)*
     
-    No, they were not notified.
+    N/A.
 
 
 1. **Did the individuals in question consent to the collection and use of their data?** *(If so, please describe (or show with screenshots or other information) how consent was requested and provided, and provide a link or other access point to, or otherwise reproduce, the exact language to which the individuals consented.)*
     
-    No. All documents are public. In the case of the AO3 stories, we explicitly contacted the authors and received permission to use their stories. (Several authors we contacted did not respond; we did not include their stories.)
+    No. All data sources are public.
 
 
 1. **If consent was obtained, were the consenting individuals provided with a mechanism to revoke their consent in the future or for certain uses?** *(If so, please provide a description, as well as a link or other access point to the mechanism (if appropriate).)*
@@ -260,7 +258,10 @@ src
 
 1. **Was the "raw" data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)?** *(If so, please provide a link or other access point to the "raw" data.)*
     
-    Yes, the original raw data is included in the distribution, in the folder `raw`.
+    Yes, the raw data is available at each dataset's homepage. Regarding the newly-added datasets, the raw versions can be found at:
+ 
+  - [15000 Gutenberg Books](https://www.kaggle.com/datasets/mateibejan/15000-gutenberg-books).
+  - [Multi-Lingual Lyrics for Genre Classification](https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification).
 
 
 1. **Is the software used to preprocess/clean/label the instances available?** *(If so, please provide a link or other access point.)*
@@ -280,7 +281,7 @@ src
 
 1. **Has the dataset been used for any tasks already?** *(If so, please provide a description.)*
     
-    The dataset has been used to understand human annotation biases and to test existing coreference systems. See the paper linked at the top for more details.
+    The dataset has been used to benchmark anomaly detection models for natural language processing across a multitude of anomaly scenarios and distributions.
 
 
 1. **Is there a repository that links to any or all papers or systems that use the dataset?** *(If so, please provide a link or other access point.)*
@@ -295,13 +296,11 @@ src
 
 1. **Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?** *(For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks)  If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?)*
     
-    While the dataset was specifically constructed to be gender inclusive, it undoubtedly fails in some ways to full achieve that goal. Part of this is due to the nature of the underlying texts (eg, Wikipedia's frequent use of deadnames) and part of it is due to plain difficulties in collection (automatically distinguishing specific singular uses of "they" from other uses is currently not possible, and so despite "they" being currently, likely, the most commonly used non-binary pronoun, it is perhaps underrepresented in this dataset). Preprocessing hopefully did not introduce errors (in fact, we corrected for many tokenization errors, for instance, that the default tokenizer did not know to split "xe'll" into two tokens as it would "she'll").
-
+    No such cases as far as we know.
 
 1. **Are there tasks for which the dataset should not be used?** *(If so, please provide a description.)*
     
-    This dataset should not be used for any sort of "gender prediction." First, anyone using this dataset (or any related dataset, for that matter), should recognize that "gender" doesn't mean any single thing, and furthermore that pronoun != gender. Furthermore, because of the fluid and temporal notion of gender--and of gendered referring expressions like pronouns and terms of address--just because a person is described in this dataset in one particular way, does not mean that this will always be the appropriate way to refer to this person.
-
+    No such cases exist.
 
 2. **Any other comments?**
     
@@ -320,7 +319,7 @@ src
 
 1. **How will the dataset will be distributed (e.g., tarball  on website, API, GitHub)?** *(Does the dataset have a digital object identifier (DOI)?)*
     
-    The dataset is free for download at github.com/hal3/gicoref-dataset.
+    The dataset is free for download at https://drive.google.com/file/d/1-Qo-kcGnPvmvh33DDQn4yw_MlD2-28kV/view?usp=sharing.
 
 
 1. **When will the dataset be distributed?**
