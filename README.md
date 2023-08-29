@@ -1,5 +1,5 @@
 # AD-NLP
- Benchmark for Anomaly Detection in Natural Language Processing
+ A Benchmark for Anomaly Detection in Natural Language Processing
  
 To reproduce our experiments, you must clone the repository, download the data and then run the provided Python scripts, as explained below.
  
