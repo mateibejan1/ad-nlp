@@ -11,8 +11,8 @@ As part of a study making coreference systems more gender inclusive, we collecte
   booktitle={Proceedings of the Conference of the Association for Computational Linguistics (ACL)},
   year={2022},
   note={}
-}
--->```
+}```
+-->
 
 ## Motivation
 
