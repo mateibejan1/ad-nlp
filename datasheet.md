@@ -1,6 +1,6 @@
 # AD-NLP Benchmark
 
-By: [Matei Bejan] `<matei.bejan@s,unibuc.ro>` and [Andrei Manolache] `<amanolache@bitdefender.com>`
+By: [Matei Bejan] `<matei.bejan@s.unibuc.ro>` and [Andrei Manolache] `<amanolache@bitdefender.com>`
 
 As part of a study making coreference systems more gender inclusive, we collected and annotated a dataset of documents by and about non-binary and binary trans people. We call this dataset the **Gender Inclusive Coreference (GICoref) dataset**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
 
