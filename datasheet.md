@@ -4,15 +4,15 @@ By: [Matei Bejan] `<matei.bejan@s,unibuc.ro>` and [Andrei Manolache] `<amanolach
 
 As part of a study making coreference systems more gender inclusive, we collected and annotated a dataset of documents by and about non-binary and binary trans people. We call this dataset the **Gender Inclusive Coreference (GICoref) dataset**; what follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
 
-<>```
-<>@inproceedings{cao2019toward,
-<>  title={AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing},
-<>  author={Matei Bejan, Andrei Manolache and Marius Popescu},
-<>  booktitle={Proceedings of the Conference of the Association for Computational Linguistics (ACL)},
-<>  year={2022},
-<>  note={}
-<>}
-<>```
+<!--```
+@inproceedings{cao2019toward,
+  title={AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing},
+  author={Matei Bejan, Andrei Manolache and Marius Popescu},
+  booktitle={Proceedings of the Conference of the Association for Computational Linguistics (ACL)},
+  year={2022},
+  note={}
+}
+-->```
 
 ## Motivation
 
